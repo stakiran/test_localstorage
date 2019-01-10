@@ -1,4 +1,5 @@
 # Local Storage のテスト
+お試しページ: https://stakiran.github.io/test_localstorage/
 
 ## 感想
 - シンプルな key-value ストア。使いやすい
